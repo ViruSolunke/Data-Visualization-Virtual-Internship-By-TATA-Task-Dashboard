@@ -158,7 +158,7 @@ Successfully completed the Tata Data Visualisation Virtual Internship Program of
 
 # 👨‍💻 Author
 
-### Virendra Solunke
+### Virendra Solunke...
 
 Aspiring Data Analyst | SQL | Python | Excel | Power BI | Tableau | Business Intelligence
 
